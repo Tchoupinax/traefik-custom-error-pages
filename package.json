@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "watch": "hugo serve -w",
+    "build": "hugo",
+    "docker:build": "docker build -t tchoupinax/traefik-custom-error-pages ."
+  }
+}
