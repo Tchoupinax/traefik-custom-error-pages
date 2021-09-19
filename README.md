@@ -26,7 +26,7 @@ hugo
 
 ## How to use with Traefik
 
-The complete [documentation](https://doc.traefik.io/traefik/middlewares/errorpages/)
+The complete [documentation](https://doc.traefik.io/traefik/middlewares/http/errorpages)
 
 ```yaml
 apiVersion: traefik.containo.us/v1alpha1
